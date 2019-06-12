@@ -1,0 +1,19 @@
+{
+  "name": "qrcodejs",
+  "version": "1.0.0",
+  "description": "Fix the QRCode not shownup on Andorid 9",
+  "main": "qrcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hcaepllams/qrcodejs.git"
+  },
+  "author": "Will Tao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hcaepllams/qrcodejs/issues"
+  },
+  "homepage": "https://github.com/Hcaepllams/qrcodejs#readme"
+}
